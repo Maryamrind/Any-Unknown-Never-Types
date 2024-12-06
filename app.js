@@ -1,0 +1,11 @@
+var num;
+num = true;
+num = 36;
+num = "hey";
+num = {};
+num = [];
+num = Math.random();
+num = null;
+num = undefined;
+num = function () { console.log("Hey again!"); };
+num();
